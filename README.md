@@ -1,6 +1,12 @@
 # Image to Text (Flutter)
 
 A cross-platform Flutter app that extracts text from images using OCR (Optical Character Recognition).
+<img width="1530" height="3036" alt="Screenshot_20260101_034247-portrait" src="https://github.com/user-attachments/assets/43f25078-7362-4e00-8043-6c8e374073ff" />
+<img width="1530" height="3036" alt="Screenshot_20260101_035028-portrait" src="https://github.com/user-attachments/assets/2a436ab2-f871-4ca9-8bcf-fdbfa791b8ae" />
+
+
+https://github.com/user-attachments/assets/405c608a-5235-4906-aa9f-228d77edcb08
+
 
 ## Features
 - Select images from camera or gallery
